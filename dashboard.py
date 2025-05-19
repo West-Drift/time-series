@@ -61,7 +61,7 @@ elif page == "Documentation":
     st.title("NDVI Time Series Workflow Documentation")
     
     st.markdown("""
-    # NDVI Time Series (2014–2018): PROBA-V + Sentinel-3-LFR
+    ## NDVI Time Series (2014–2018): PROBA-V + Sentinel-3-LFR
 
     ## 📌 Objectives
 
